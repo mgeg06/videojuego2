@@ -1,7 +1,7 @@
 
 <p align="center"> <h1> Videojuego 2D</h1></p>
 
-## QUIZ GAME contesta avanza y gana 🚀
+## QUIZ GAME 🚀
 
 
 ### Objetivo.. 📋
